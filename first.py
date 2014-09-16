@@ -1,4 +1,6 @@
 print ("Welcome to python")
 a=1
-print a
+while a < 10:
+	a=a+1
+	print (a)
 
