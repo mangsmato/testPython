@@ -6,5 +6,6 @@ while a < 10:
 name="Mangsmato"
 if (name=="Mangsmato"):
         print ("you are a genious")
+        print ('this things are cool')
 
 
